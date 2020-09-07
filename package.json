@@ -3,7 +3,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danleyb2/web-component.git"
+    "url": "https://github.com/sifhic/wc-test.git"
   },
   "version": "0.0.10",
   "main": "dist/es6-unbundled/index.js",
